@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FavouritePlace</string>
+
+    <string name="place1">The Maldive Islands are a series of coral atolls built up from the crowns of a submerged ancient
+        volcanic mountain range. All the islands are low-lying, none rising to more than 6 feet (1.8 metres) above sea level.
+        Barrier reefs protect the islands from the destructive effects of monsoons. The rainy season, from May to August,
+
+</string>
+    <string name="place2">Switzerland, officially the Swiss Confederation, is a sovereign state situated
+in the confluence of western, central, and southern Europe. … Switzerland is a landlocked country bordered by
+        Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east.
+
+        </string>
+    <string name="place3">Nepal has a diverse geography, including fertile plains, subalpine forested hills,
+and eight of the world\'s ten tallest mountains, including Mount Everest, the highest point on Earth. Kathmandu is the capital and the largest city. Nepal is a multiethnic country with Nepali as the official language.
+    </string>
+
+    <string name="place4">Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. Located east of Java and
+    </string>
+
+</resources>
